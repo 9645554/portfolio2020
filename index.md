@@ -1,4 +1,6 @@
-Welcom to ecsportfolio2020
+Welcom to Connor Doyle's ECS portfolio
+
+![typing test](https://github.com/9645554/portfolio2020/blob/gh-pages/images/Screenshot%202020-08-26%20at%201.15.10%20PM.png?raw=true)
 
 You can use the [editor on GitHub](https://github.com/9645554/portfolio2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
